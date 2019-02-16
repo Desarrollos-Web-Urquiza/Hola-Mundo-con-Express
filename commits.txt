@@ -1,0 +1,17 @@
+commit 404b23807e95defd4c646c7f69daf73167dc4587
+Author: Werner <desarrollos_web_urquiza@hotmail.com>
+Date:   Fri Feb 15 18:57:42 2019 -0300
+
+    Volvimos a cambiar app.js
+
+commit caba96cbf68bc517abb937e1a97eb20a183aaac0
+Author: Werner <desarrollos_web_urquiza@hotmail.com>
+Date:   Fri Feb 15 18:55:04 2019 -0300
+
+    Cambiamos app.js
+
+commit 2e22baeaf28476ed6dc951b5f24cec0342a49d6c
+Author: Werner <desarrollos_web_urquiza@hotmail.com>
+Date:   Fri Feb 15 18:53:24 2019 -0300
+
+    Iniciemos
