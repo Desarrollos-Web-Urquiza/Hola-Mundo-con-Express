@@ -36,3 +36,15 @@ Nuevo cambio de nuestro app.js con la rama "Test"
 */
 
 
+
+
+/*
+
+
+Nuevo cambio de nuestro app.js con la rama "Text"
+
+
+
+*/
+
+
